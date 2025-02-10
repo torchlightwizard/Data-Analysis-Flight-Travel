@@ -13,6 +13,7 @@ In this project, we conduct an exploratory data analysis (EDA) on Flight Travel 
 # Datasets
 https://openflights.org/data.php<br>
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WTZS4K
+https://raw.githubusercontent.com/plotly/datasets/master/2014_world_gdp_with_codes.csv
 
 # Terminologies
 https://en.wikipedia.org/wiki/IATA_airport_code<br>
